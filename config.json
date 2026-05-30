@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceuerify",
+        "uuid": 14225736,
+        "checksum": "5kdl1p"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
